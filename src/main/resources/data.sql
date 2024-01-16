@@ -1,0 +1,1 @@
+INSERT INTO question(id,quetion,option1,option2,option3,option4) VALUES(1,'what','1','2','3','4'),(2,'where','5','6','7','8');
